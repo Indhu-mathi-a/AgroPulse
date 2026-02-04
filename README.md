@@ -1,8 +1,8 @@
 ---
-title: AgroPulse
-emoji: 🐨
-colorFrom: blue
-colorTo: green
+title: Sreenithi Hackathon Project
+emoji: 🐢
+colorFrom: green
+colorTo: red
 sdk: docker
 pinned: false
 ---
